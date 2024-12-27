@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s ease;
+}
+
+.reloj {
+    text-align: center;
+    color: white;
+}
+
+#hora {
+    font-size: 4em;
+    margin-bottom: 20px;
+}
+
+#mensaje {
+    font-size: 2em;
+}
