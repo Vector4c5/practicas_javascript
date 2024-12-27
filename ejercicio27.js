@@ -1,6 +1,6 @@
 // Variables con las palabras a comparar
 let palabra1 = "amor";
-let palabra2 = "romar";
+let palabra2 = "roma";
 
 // Normalización: eliminar espacios y convertir a minúsculas
 palabra1 = palabra1.replace(/\s+/g, '').toLowerCase();

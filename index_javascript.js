@@ -20,7 +20,7 @@ function actualizarReloj() {
         colorFondo = coloresManana[indiceColor];
         colorTexto = '#FF4500'; 
     } else if (horas >= 12 && horas < 18) {
-        mensaje = '¡Buenas tardes! sigue esforzandote, falta poco para descansar :D/';
+        mensaje = '¡Buenas tardes! sigue esforzandote, falta poco para descansar :D';
         colorFondo = coloresTarde[indiceColor];
         colorTexto = '#8B4513'; 
     } else if (horas >= 18 && horas < 21) {
